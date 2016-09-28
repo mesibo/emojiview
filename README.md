@@ -1,12 +1,8 @@
-## Emojicon
+## EmojiView
 
-Whatsapp like implementation for emjoicons which appear as a popup over the  soft keyboard
-
-![Screenshot](/sample.png?raw=true)
+EmojiView used in Mesibo UI
 
 ## Example
-
-UPDATE: An example project has been made.
 
 Note: You can change the size of emojis in XML layout through attribute `emojiconSize`.
 
@@ -16,6 +12,7 @@ Note : `EmojiconEditText`: a `EditText` which can render emojis.
 
 
 ## Acknowledgements
+Based on https://github.com/ankushsachdeva/emojicon
 
 Based on Hieu Rocker's library [Emojicon Github](https://github.com/rockerhieu/emojicon/)
 
